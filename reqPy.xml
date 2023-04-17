@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<methodCall><methodName>sum</methodName><params><param><value><int>6</int></value></param><param><value><int>1</int></value></param></params></methodCall>
+
